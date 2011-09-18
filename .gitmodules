@@ -3,7 +3,7 @@
 	url = https://github.com/alohaeditor/Aloha-Plugin-HighlightEditables.git
 [submodule "WebContent/plugins/com.gentics.aloha.plugins.Format"]
 	path = WebContent/plugins/com.gentics.aloha.plugins.Format
-	url = https://github.com/alohaeditor/Aloha-Plugin-Format.git
+	url = git@github.com:popsimple/Aloha-Plugin-Format.git
 [submodule "WebContent/plugins/com.gentics.aloha.plugins.Link"]
 	path = WebContent/plugins/com.gentics.aloha.plugins.Link
 	url = https://github.com/alohaeditor/Aloha-Plugin-Link.git
